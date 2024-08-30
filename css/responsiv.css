@@ -90,10 +90,12 @@ header .nav-item{
     }
 
     .banner-section .form-inner {
-        padding-top: 0%;
-        padding-bottom: 35px;
-        margin-right: -7%;
-        padding-left: 10%;
+        padding:0px 100px 35px;
+        margin: 10% 25px 0px;
+    }
+
+    .banner-section .form-inner .card {
+        width: 100%;
     }
 
     .banner-section {
@@ -281,11 +283,14 @@ header .nav-item{
         border-bottom: 2px solid var(--var3);
     }
 
+    
     .banner-section .form-inner {
-        padding-top: 15%;
-        padding-bottom: 35px;
-        margin-right: -7%;
-        padding-left: 12%;
+        padding:0px 50px 35px;
+        margin: 10% 25px 0px;
+    }
+
+    .banner-section .form-inner .card {
+        width: 100%;
     }
 
     .banner-section {
@@ -479,10 +484,12 @@ header .nav-item{
     }
 
     .banner-section .form-inner {
-        padding-top: 15%;
-        padding-bottom: 35px;
-        margin-right: 0%;
-        padding-left: 13%;
+        padding:0px 0px 35px;
+        margin: 10% 25px 0px;
+    }
+
+    .banner-section .form-inner .card {
+        width: 100%;
     }
 
     .banner-section {
